@@ -21,6 +21,10 @@ while cap.isOpened():
         # Visualize the results on the frame
         annotated_frame = results[0].plot()
 
+        #get bounding boxes coordinates
+        #for r in results:
+        #    print(r.boxes)
+
         # Display the annotated frame
         cv2.imshow("YOLOv8 Inference", annotated_frame)
 
