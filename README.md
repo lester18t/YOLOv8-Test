@@ -1,4 +1,4 @@
-# YOLOv8-Test
+# YOLOv8 Sample
  
 YOLOv8 Documentation: [Click Here](https://docs.ultralytics.com/)
 
